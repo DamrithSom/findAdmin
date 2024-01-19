@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Flask is a web framework
+Flask==2.0.1
+
+# Requests is used for making HTTP requests
+requests==2.26.0
+
+# SQLAlchemy is a SQL toolkit for Python
+SQLAlchemy==1.4.25
