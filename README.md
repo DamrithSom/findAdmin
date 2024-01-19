@@ -16,5 +16,5 @@ These instructions will help you get a copy of the project up and running on you
 A step-by-step series of examples that tell you how to get a development environment running.
 
 ```bash
-git clone https://github.com/your_username/your_project.git
-cd your_project
+git clone https://github.com/DamrithSom/findAdmin.git
+cd Find_admin
